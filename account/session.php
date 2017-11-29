@@ -1,5 +1,5 @@
 <?php
-// https://github.com/nagexiucai/website
+// https://github.com/nagexiucai/howtophp
 
 session_start();
 
